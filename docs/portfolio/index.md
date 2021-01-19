@@ -7,7 +7,7 @@ description: "인공지능 개발자가 되고 싶은 경영학 인재 임동혁
 경영학을 전공하였지만, 인공지능 개발자가 되기 위해 노력하고 있는 임동혁입니다.
 
 # 할 수 있는 것
-![Java Logo](https://sweetbarrow.github.io/docs/portfolio/static/img/javalogo-81x162,0.png)
+![Java Logo](/static/img/javalogo-81x162,0.png)
 ![Python Logo](https://www.python.org/static/img/python-logo.png)
 
 # 경험

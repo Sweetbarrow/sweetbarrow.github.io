@@ -8,6 +8,7 @@ description: "인공지능 개발자가 되고 싶은 경영학 인재 임동혁
 
 # 할 수 있는 것
 ![Java Logo](/static/img/javalogo-81x162,0.png)
+
 ![Python Logo](https://www.python.org/static/img/python-logo.png)
 
 # 경험

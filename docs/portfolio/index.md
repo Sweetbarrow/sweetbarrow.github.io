@@ -8,19 +8,22 @@ description: "인공지능 개발자가 되고 싶은 경영학 인재 임동혁
 
 # 할 수 있는 것
 ## 언어
-| ![Java Logo](./static/img/java-logo.png)<br>[Java](https://java.com/) | ![Python Logo](https://www.python.org/static/img/python-logo.png)<br>[Python](https://www.python.org/) |
-|---|---|
+| ![Java Logo](./static/img/java-logo.png) | ![Python Logo](./static/img/python-logo-edited.png) |
+|:---:|:---:|
+| [Java](https://java.com/) | [Python](https://www.python.org/) |
 ## 프레임워크, 라이브러리 등
-| ![Hadoop Logo](https://hadoop.apache.org/hadoop-logo.jpg)<br>[Apache Hadoop](https://hadoop.apache.org/) | ![Apache Ambari Logo](http://ambari.apache.org/images/apache-ambari-project.png)<br>[Apache Ambari](https://ambari.apache.org/) | ![Apache Hive Logo](https://hive.apache.org/images/hive_logo_medium.jpg) | ![Apache ZooKeeper Logo](https://zookeeper.apache.org/images/zookeeper_small.gif) | ![TensorFlow](./static/img/tensorflow-logo.png)
-|---|---|---|---|---|
+| ![Hadoop Logo](https://hadoop.apache.org/hadoop-logo.jpg) | ![Apache Ambari Logo](http://ambari.apache.org/images/apache-ambari-project.png) | ![Apache Hive Logo](https://hive.apache.org/images/hive_logo_medium.jpg) | ![Apache ZooKeeper Logo](https://zookeeper.apache.org/images/zookeeper_small.gif) | <img src="./static/img/tensorflow-logo.png" width=300>
+|:---:|:---:|:---:|:---:|:---:|
+| [Apache Hadoop](https://hadoop.apache.org/) | [Apache Ambari](https://ambari.apache.org/) | [Apache Hive](https://hive.apache.org/) | [Apache ZooKeeper](https://zookeeper.apache.org/) | [TensorFlow](https://www.tensorflow.org/) |
 
 # 경험
 ## 프로젝트
-### Voo-ong
+### [Voo-ong](https://github.com/Sweetbarrow/Voo-ong)
+- 2020.03 ~ 2020.06
 ## 업무 경험
 ### 경기도청 기획담당관실
-#### 2020.09.01 ~ 2020.12.18
-#### 행정업무 보조
+- 2020.09.01 ~ 2020.12.18
+- 행정업무 보조
 ### [MEGA](https://mega.nz)
-#### 2013.10 ~ 현재
-#### 영문-한글 번역
+- 2013.10 ~ 현재
+- 영문-한글 번역

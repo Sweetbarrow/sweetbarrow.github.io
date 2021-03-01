@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="ko">
+    <head>
+        <title>마우스 더블 클릭 테스트</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+    
+    <body onmousedown="mouseClick();" oncontextmenu="return false;">
+        <script type="text/javascript" src="script.js"></script>
+        <div id="click" class="click"></div>
+        클릭 수: <input id="count" type="text" value="0" size="4">&nbsp;<button id="reset">리셋</button><br />
+        빠른 더블 클릭 수: <input id="dcCount" type="text" value="0" size="4"><br />
+        <textarea id="textarea"></textarea>
+    </body>
+
+    <footer>
+        Original author: <a href="https://codepen.io/blink172/pen/vERyxK" target="_new">blink172</a>
+    </footer>
+</html>

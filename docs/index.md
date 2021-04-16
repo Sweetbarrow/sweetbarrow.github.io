@@ -8,9 +8,9 @@ description: "인공지능 개발자가 되고 싶은 경영학 인재 임동혁
 
 # 할 수 있는 것
 ## 언어
-| ![Java Logo](./static/img/java-logo.png) | ![Python Logo](./static/img/python-logo-edited.png) | SQL
+| ![Java Logo](./static/img/java-logo.png) | ![Python Logo](./static/img/python-logo-edited.png) | SQL |
 |:---:|:---:|:---:|
-| [Java](https://java.com/) | [Python](https://www.python.org/) | SQL
+| [Java](https://java.com/) | [Python](https://www.python.org/) | SQL |
 ## 프레임워크, 라이브러리 등
 | ![Hadoop Logo](https://hadoop.apache.org/hadoop-logo.jpg) | ![Apache Ambari Logo](http://ambari.apache.org/images/apache-ambari-project.png) | ![Apache Hive Logo](https://hive.apache.org/images/hive_logo_medium.jpg) | ![Apache ZooKeeper Logo](https://zookeeper.apache.org/images/zookeeper_small.gif) | <img src="./static/img/tensorflow-logo.png" width=300>
 |:---:|:---:|:---:|:---:|:---:|

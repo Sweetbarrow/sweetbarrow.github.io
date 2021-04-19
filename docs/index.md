@@ -20,6 +20,12 @@ description: "인공지능 개발자가 되고 싶은 경영학 인재 임동혁
 ## 프로젝트
 ### [Voo-ong](https://github.com/Sweetbarrow/Voo-ong)
 - 2020.03 ~ 2020.06
+- 개인의 영화 평가를 바탕으로 좋아할만한 영화를 추천해주는 알고리즘 개발 시도
+- 사용 언어: Python, SQL
+- 사용한 프레임워크, 라이브러리 등: Hadoop(HDFS, ZooKeeper, Hive, Sqoop), TensorFlow, Keras
+### [PyDDNS](https://github.com/Sweetbarrow/PyDDNS)
+- 2021.03 ~ 현재
+- 사용 언어: Python
 ## 업무 경험
 ### 경기도청 기획담당관실
 - 2020.09.01 ~ 2020.12.18
